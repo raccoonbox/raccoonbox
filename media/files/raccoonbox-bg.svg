@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2000 1500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <rect x="0" y="0" width="2000" height="1500" style="fill:rgb(37,33,29);"/>
+    <g transform="matrix(-1.27707,-0.379205,0.523088,-0.788198,1000,726.116)">
+        <g>
+            <g>
+                <g>
+                    <g id="a" transform="matrix(0.2,-0.34641,0.34641,0.2,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(49,46,43);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a1" serif:id="a" transform="matrix(0.321394,-0.383022,0.383022,0.321394,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(49,46,43);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a2" serif:id="a" transform="matrix(0.459627,-0.385673,0.385673,0.459627,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(49,46,43);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a3" serif:id="a" transform="matrix(0.606218,-0.35,0.35,0.606218,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(49,46,43);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a4" serif:id="a" transform="matrix(0.751754,-0.273616,0.273616,0.751754,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(61,60,58);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a5" serif:id="a" transform="matrix(0.886327,-0.156283,0.156283,0.886327,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(61,60,58);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <ellipse id="a6" serif:id="a" cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(61,60,58);stroke-opacity:0.07;stroke-width:200px;"/>
+                    <g id="a7" serif:id="a" transform="matrix(1.08329,0.191013,-0.191013,1.08329,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(61,60,58);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a8" serif:id="a" transform="matrix(1.12763,0.410424,-0.410424,1.12763,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(47,42,37);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a9" serif:id="a" transform="matrix(1.12583,0.65,-0.65,1.12583,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(48,43,38);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a10" serif:id="a" transform="matrix(1.07246,0.899903,-0.899903,1.07246,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(49,43,39);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a11" serif:id="a" transform="matrix(0.964181,1.14907,-1.14907,0.964181,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(50,44,40);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a12" serif:id="a" transform="matrix(0.8,1.38564,-1.38564,0.8,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(50,45,41);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a13" serif:id="a" transform="matrix(0.581434,1.59748,-1.59748,0.581434,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(51,46,42);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a14" serif:id="a" transform="matrix(0.312567,1.77265,-1.77265,0.312567,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(52,47,43);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a15" serif:id="a" transform="matrix(-7.27428e-16,1.9,-1.9,-7.27428e-16,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(53,48,44);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a16" serif:id="a" transform="matrix(-0.347296,1.96962,-1.96962,-0.347296,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(34,31,29);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a17" serif:id="a" transform="matrix(-0.718242,1.97335,-1.97335,-0.718242,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(34,31,29);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a18" serif:id="a" transform="matrix(-1.1,1.90526,-1.90526,-1.1,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(34,31,29);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a19" serif:id="a" transform="matrix(-1.47841,1.7619,-1.7619,-1.47841,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(34,31,29);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a20" serif:id="a" transform="matrix(-1.83851,1.54269,-1.54269,-1.83851,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(53,53,53);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a21" serif:id="a" transform="matrix(-2.16506,1.25,-1.25,-2.16506,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(53,53,53);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                    <g id="a22" serif:id="a" transform="matrix(-2.4432,0.889252,-0.889252,-2.4432,0,0)">
+                        <ellipse cx="0" cy="0" rx="600" ry="450" style="fill:none;stroke:rgb(53,53,53);stroke-opacity:0.07;stroke-width:200px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

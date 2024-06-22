@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////Users/konstantin/Documents/Publii/sites/raccoonbox-production/preview/sitemap.xml
